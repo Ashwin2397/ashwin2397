@@ -20,7 +20,7 @@ My life goal is to be a technical founder for life-changing interdisplinary soft
 
 **Stats**
 
-![Ashwin's GitHub stats](https://github-readme-stats-l8vu-git-main-ashwin2397s-projects.vercel.app/api?username=ashwin2397)
+[![Ashwin's GitHub stats](https://github-readme-stats-l8vu-git-main-ashwin2397s-projects.vercel.app/api?username=ashwin2397)](https://github.com/anuraghazra/github-readme-stats)
 
 P.S:
 🪳 is my emoji
