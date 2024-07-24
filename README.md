@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 
 My life goal is to be a technical founder for life-changing interdisplinary software. My love for software runs deep and I won't stop for anything.
 
+<!--
 **Stats**
 
 [![Ashwin's GitHub stats](https://github-readme-stats-l8vu-git-main-ashwin2397s-projects.vercel.app/api?username=ashwin2397)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 P.S:
 🪳 is my emoji
